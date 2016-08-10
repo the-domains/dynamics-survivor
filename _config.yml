@@ -16,6 +16,8 @@ opengraph:
   type: ''
   appId: ''
 layout_spectrum: 0.5008024691790657
+analytics:
+  google: UA-1640496-10
 author:
   name: Jukka Niiranen
   url: ''
