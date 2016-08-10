@@ -1,24 +1,24 @@
-name: Dynamics Survivor
-layout_spectrum: 0.683520058169961
-typography_spectrum: 0.5491407623048872
+typography_spectrum: 0.28266030612027193
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.08214680293128895
+  lightness: 0.5116485499948619
+  saturation: 0.8570453946253836
+  rhythmicContrast: 0.6527717430526706
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  brandStrength: 0.9084346087183803
-  lightness: 0.18014705856330693
-  saturation: 0.26903930422849953
-  rhythmicContrast: 0.6191812476608902
-title: Microsoft Dynamics 365 news and observations
+layout_spectrum: 0.5008024691790657
 author:
   name: Jukka Niiranen
   url: ''
   email: ''
-content_rating:
-  adult: false
+name: Dynamics Survivor
+title: Dynamics Survivor
