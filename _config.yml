@@ -28,5 +28,8 @@ navigation:
   - name: '@jukkan on Twitter'
     url: 'https://twitter.com/jukkan'
     type: external
+  - name: Microsoft Dynamics 365
+    url: 'https://www.microsoft.com/en-us/dynamics/dynamics-365'
+    type: external
 title: Dynamics Survivor
 description: Microsoft Dynamics 365 news and observations
