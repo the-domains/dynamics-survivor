@@ -22,6 +22,9 @@ author:
   email: ''
 name: Dynamics Survivor
 navigation:
+  - name: About this site
+    id: 6b7f6312-75d4-484a-8486-3ffcf3d52822
+    type: content
   - name: Surviving CRM blog
     url: 'http://survivingcrm.com/'
     type: external
@@ -31,8 +34,5 @@ navigation:
   - name: Microsoft Dynamics 365
     url: 'https://www.microsoft.com/en-us/dynamics/dynamics-365'
     type: external
-  - name: About this site
-    id: 6b7f6312-75d4-484a-8486-3ffcf3d52822
-    type: content
 title: Dynamics Survivor
 description: Microsoft Dynamics 365 news and observations
