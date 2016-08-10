@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-10T12:25:00.503Z'
+datePublished: '2016-08-10T12:37:00.640Z'
 sourcePath: _posts/2016-08-10-about-dynamics-survivor.md
 author: []
 via: {}
-dateModified: '2016-08-10T12:24:36.133Z'
+dateModified: '2016-08-10T12:36:59.992Z'
 title: About Dynamics Survivor
 publisher: {}
 description: >-
   This site is a collection of links and content related to the technologies
   around Microsoft Dynamics 365. These may include:
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: about-dynamics-survivor/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/106ece97-3bad-4936-a521-58ee3260380b.png)
