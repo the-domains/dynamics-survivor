@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-10T12:17:28.799Z'
+datePublished: '2016-08-10T12:25:00.503Z'
 sourcePath: _posts/2016-08-10-about-dynamics-survivor.md
 author: []
 via: {}
-dateModified: '2016-08-10T12:17:27.930Z'
+dateModified: '2016-08-10T12:24:36.133Z'
 title: About Dynamics Survivor
 publisher: {}
 description: >-
