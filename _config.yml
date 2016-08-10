@@ -1,0 +1,14 @@
+name: Dynamics Survivor
+layout_spectrum: 0.5008024691790657
+typography_spectrum: 0.28266030612027193
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.08214680293128895
+  lightness: 0.5116485499948619
+  saturation: 0.8570453946253836
+  rhythmicContrast: 0.6527717430526706
