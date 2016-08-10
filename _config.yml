@@ -25,5 +25,8 @@ navigation:
   - name: Surviving CRM blog
     url: 'http://survivingcrm.com/'
     type: external
+  - name: '@jukkan on Twitter'
+    url: 'https://twitter.com/jukkan'
+    type: external
 title: Dynamics Survivor
 description: Microsoft Dynamics 365 news and observations
