@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-10T12:17:28.799Z'
+sourcePath: _posts/2016-08-10-about-dynamics-survivor.md
+author: []
+via: {}
+dateModified: '2016-08-10T12:17:27.930Z'
+title: About Dynamics Survivor
+publisher: {}
 description: >-
   This site is a collection of links and content related to the technologies
   around Microsoft Dynamics 365. These may include:
-dateModified: '2016-08-10T12:02:43.665Z'
-datePublished: '2016-08-10T12:03:24.079Z'
-title: About Dynamics Survivor
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-10-about-dynamics-survivor.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -22,15 +22,23 @@ _type: MediaObject
 
 This site is a collection of links and content related to the technologies around [Microsoft Dynamics 365][0]. These may include:
 
-* Dynamics CRM
-* Dynamics AX
-* Dynamics NAV
-* Power BI
-* PowerApps
-* Flow
-* Microsoft AppSource
-* Azure
-* Office 365
+Dynamics CRM
+
+Dynamics AX
+
+Dynamics NAV
+
+Power BI
+
+PowerApps
+
+Flow
+
+Microsoft AppSource
+
+Azure
+
+Office 365
 
 Yes, that's quite a long list of MSFT technologies. It is precisely the reason why keeping track of what is happening in this cloud business applications space can feel overwhelming - and why we should try and do something about it!
 
