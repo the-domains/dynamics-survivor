@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dynamics Survivor]]></title>
-        <description><![CDATA[Dynamics Survivor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Microsoft Dynamics 365 news and observations]]></title>
+        <description><![CDATA[Microsoft Dynamics 365 news and observations]]></description>
+        <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 07:48:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 07:55:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
+            <description><![CDATA[<article><h1>Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM</h1><p>Have you heard about this brand new thing called "Dynamics 365" yet? If you attended or followed the WPC 2016 conference, I bet you have, since it was the big headline news for Microsoft's partners and corporate customers that kicked off their FY17.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4823ace4bf34e1a02fb0d1e024e22b3/croprotate.png?cropheight=280&cropwidth=552&degrees=0&input=http%3A%2F%2Fsurvivingcrm.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDynamics_365_header.png&x=122&y=0"></article>]]></description>
+            <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
+            <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
+            <pubDate>Wed, 10 Aug 2016 07:55:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft Flow and the Microsoft Common Data Model]]></title>
-            <description><![CDATA[<article><h1>Microsoft Flow and the Microsoft Common Data Model</h1><p>Today we are excited to announce the public preview of the Microsoft Common Data Model integrated in Microsoft Flow. The Microsoft Common Data Model is an out-of-box business database for storing and managing business entities. The preview is available today as a first class business database for your flows.</p><img src="https://procsi.blob.core.windows.net/blog-images/cdmcolored.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Microsoft Flow and the Microsoft Common Data Model</h1><p>Today we are excited to announce the public preview of the Microsoft Common Data Model integrated in Microsoft Flow. The Microsoft Common Data Model is an out-of-box business database for storing and managing business entities. The preview is available today as a first class business database for your flows.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d079d4a9db2981e02f7c9d19188cee4c/noop.png?input=https%3A%2F%2Fprocsi.blob.core.windows.net%2Fblog-images%2Fcdmcolored.png"></article>]]></description>
             <link>https://flow.microsoft.com/en-us/blog/flow-and-common-data-model/</link>
             <guid isPermaLink="false">7461ef76-6875-49ba-8636-01ba848557dd</guid>
             <pubDate>Wed, 10 Aug 2016 07:48:53 GMT</pubDate>
