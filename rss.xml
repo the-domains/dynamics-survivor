@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamics Survivor]]></description>
         <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 08:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 10:23:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
@@ -12,6 +12,13 @@
             <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
             <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
             <pubDate>Wed, 10 Aug 2016 08:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Opens First Common Data Model (CDM) Preview for PowerApps - MSDynamicsWorld.com]]></title>
+            <description><![CDATA[<article><h1>Microsoft Opens First Common Data Model (CDM) Preview for PowerApps - MSDynamicsWorld.com</h1><p>Microsoft has released a common data model (CDM) public preview for PowerApps focused on sales, case management, purchasing, and foundational data.</p></article>]]></description>
+            <link>http://msdynamicsworld.com/story/microsoft-opens-first-common-data-model-cdm-preview-powerapps</link>
+            <guid isPermaLink="false">280ada79-cd04-4f7f-adb8-773f0f4ef781</guid>
+            <pubDate>Wed, 10 Aug 2016 10:22:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing Azure Logic Apps general availability]]></title>
