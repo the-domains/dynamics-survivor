@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Microsoft Dynamics 365 news and observations]]></title>
-        <description><![CDATA[Microsoft Dynamics 365 news and observations]]></description>
+        <title><![CDATA[Dynamics Survivor]]></title>
+        <description><![CDATA[Dynamics Survivor]]></description>
         <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 08:48:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
+            <description><![CDATA[<article><h1>Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM</h1><p>Have you heard about this brand new thing called "Dynamics 365" yet? If you attended or followed the WPC 2016 conference, I bet you have, since it was the big headline news for Microsoft's partners and corporate customers that kicked off their FY17.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4823ace4bf34e1a02fb0d1e024e22b3/croprotate.png?cropheight=280&cropwidth=552&degrees=0&input=http%3A%2F%2Fsurvivingcrm.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDynamics_365_header.png&x=122&y=0"></article>]]></description>
+            <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
+            <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
+            <pubDate>Wed, 10 Aug 2016 08:48:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Announcing Azure Logic Apps general availability]]></title>
             <description><![CDATA[<article><h1>Announcing Azure Logic Apps general availability</h1><p>Today we are announcing the general availability of Azure Logic Apps, Microsoft's Integration Platform-as-a-Service (iPaaS) offering that enables rapid, enterprise-grade, hybrid application connectivity. At the Integrate 2016 conference in London, we shared our vision to build a comprehensive hybrid integration platform that allows customers to seamlessly connect traditional on-premises systems and cloud-native applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01b648d905fbc0146e11b30b411e1759/noop.png?input=https%3A%2F%2Fazurecomcdn.azureedge.net%2Fmediahandler%2Facomblog%2Fmedia%2FDefault%2Fblog%2Fc99d7cad-9192-4eb5-b314-398ada0cf501.png"></article>]]></description>
             <link>https://azure.microsoft.com/en-us/blog/announcing-azure-logic-apps-general-availability/</link>
             <guid isPermaLink="false">9b1ea29b-5f8d-4822-9276-3e1c4dce58c6</guid>
             <pubDate>Wed, 10 Aug 2016 08:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
-            <description><![CDATA[<article><h1>Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM</h1><p>Have you heard about this brand new thing called "Dynamics 365" yet? If you attended or followed the WPC 2016 conference, I bet you have, since it was the big headline news for Microsoft's partners and corporate customers that kicked off their FY17.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4823ace4bf34e1a02fb0d1e024e22b3/croprotate.png?cropheight=280&cropwidth=552&degrees=0&input=http%3A%2F%2Fsurvivingcrm.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDynamics_365_header.png&x=122&y=0"></article>]]></description>
-            <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
-            <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
-            <pubDate>Wed, 10 Aug 2016 07:55:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft Flow and the Microsoft Common Data Model]]></title>
