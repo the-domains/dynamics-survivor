@@ -1,25 +1,29 @@
-typography_spectrum: 0.21109510073438287
+typography_spectrum: 0.28266030612027193
 content_rating:
   adult: false
 color:
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  brandStrength: 0.9632477075792849
-  lightness: 0.3037108692806214
-  saturation: 0.8981009626295418
-  rhythmicContrast: 0.5840101805515587
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.08214680293128895
+  lightness: 0.5116485499948619
+  saturation: 0.8570453946253836
+  rhythmicContrast: 0.6527717430526706
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.0325698833912611
+layout_spectrum: 0.5008024691790657
 author:
   name: Jukka Niiranen
   url: ''
   email: ''
 name: Dynamics Survivor
+navigation:
+  - name: Surviving CRM blog
+    url: 'http://survivingcrm.com/'
+    type: external
 title: Dynamics Survivor
 description: Microsoft Dynamics 365 news and observations
