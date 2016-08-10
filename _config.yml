@@ -1,6 +1,9 @@
 name: Dynamics Survivor
 layout_spectrum: 0.5008024691790657
 typography_spectrum: 0.28266030612027193
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#16193B'
@@ -12,3 +15,10 @@ color:
   lightness: 0.5116485499948619
   saturation: 0.8570453946253836
   rhythmicContrast: 0.6527717430526706
+title: Microsoft Dynamics 365 news and observations
+author:
+  name: Jukka Niiranen
+  url: ''
+  email: ''
+content_rating:
+  adult: false
