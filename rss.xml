@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamics Survivor]]></description>
         <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 10:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 05:34:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
@@ -12,6 +12,13 @@
             <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
             <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
             <pubDate>Wed, 10 Aug 2016 08:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dynamics NAV is Dead! Long live Dynamics NAV!]]></title>
+            <description><![CDATA[<article><h1>Dynamics NAV is Dead! Long live Dynamics NAV!</h1><p>Directions USA published their agenda today and the agenda for NAVTechDays is getting more clear each week too. What can we learn from these agenda's? Its all about Extensions, Cloud and Dynamics 365 for Financials aka project "Madeira". Is that a bad thing? I guess you should make that call after attending these great events....</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a9f8c0181ce53c957b4e42f4bd94c046/noop?input=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2F1a56e38b6f37a915a13049c0334dbf68%3Fs%3D200%26ts%3D1470893685"></article>]]></description>
+            <link>https://nav-skills.com/2016/08/04/dynamics-nav-is-dead-long-live-dynamics-nav/</link>
+            <guid isPermaLink="false">c979e0e7-1731-4459-95a6-bf83c85ddc85</guid>
+            <pubDate>Thu, 11 Aug 2016 05:34:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft Opens First Common Data Model (CDM) Preview for PowerApps - MSDynamicsWorld.com]]></title>
