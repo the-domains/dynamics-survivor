@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamics Survivor]]></description>
         <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 05:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 08:36:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
@@ -12,6 +12,13 @@
             <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
             <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
             <pubDate>Wed, 10 Aug 2016 08:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Power BI July Update for Service and Mobile]]></title>
+            <description><![CDATA[<article><h1>Power BI July Update for Service and Mobile</h1><p>We have some really cool features to announce this month, including data driven alerts that let you receive notifications when the data you care about the most goes beyond the range you set. The Power BI service team is always listening to your feedback and improving our product based on what we hear.</p><img src="https://powerbi.microsoft.com/mediahandler/blog/media/PowerBI/blog/7b590c02-3690-458a-ad21-10eab754ba75.png"></article>]]></description>
+            <link>https://powerbi.microsoft.com/en-us/blog/power-bi-july-update-for-service-and-mobile/?WT.mc_id=PowerBI_NL_Aug11&amp;mkt_tok=eyJpIjoiTTJSbFpUaGxNVGc1TlRGbSIsInQiOiIxTGFRSUtsM2pZU3htK1RvV2NBSVhcLzRWWDg1alMwTCs5MEREYXV5eW1UR1FzV0FJcXpnUldEem9mbktqXC9cL2llV0MxM3p2ZktaUmREb0xlWkdDU1BXTlBlQ3VYb3ZoN2tDalwvMmZaOTZ3UFE9In0%3D</link>
+            <guid isPermaLink="false">6f035614-e437-4d38-86fd-b552d9b9e453</guid>
+            <pubDate>Fri, 12 Aug 2016 08:36:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dynamics NAV is Dead! Long live Dynamics NAV!]]></title>
