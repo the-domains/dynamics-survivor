@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamics Survivor]]></description>
         <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 12:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 14:48:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
@@ -12,6 +12,13 @@
             <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
             <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
             <pubDate>Wed, 10 Aug 2016 08:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create an Online Email Form with Azure Logic Apps]]></title>
+            <description><![CDATA[<article><h1>Create an Online Email Form with Azure Logic Apps</h1><p>After over a year in preview, Azure Logic Apps reached general availability last month. As part of the GA announcement, a new serverless consumption pricing model was added. This meant that Logic Apps no longer need to be part of an App Service Plan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99f9e07511cf4e884ddc519f5a38c401/noop.png?input=http%3A%2F%2Fanthonychu.ca%2Fpost-assets%2F2016-08-20%2Fstep2.png"></article>]]></description>
+            <link>http://anthonychu.ca/post/azure-logic-apps-online-email-form/</link>
+            <guid isPermaLink="false">8d07e1e1-cd44-4673-a59e-c4d99f6d959d</guid>
+            <pubDate>Tue, 23 Aug 2016 14:48:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debate on Extensions Grows: Microsoft Dynamics NAV Professionals Weigh the Impact]]></title>
