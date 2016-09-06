@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamics Survivor]]></description>
         <link>https://thegrid.ai/dynamics-survivor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 14:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 19:39:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dynamics-survivor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamics 365: The Next Chapter of MS Cloud Business Apps - Surviving CRM]]></title>
@@ -12,6 +12,20 @@
             <link>http://survivingcrm.com/2016/07/dynamics-365-next-chapter-ms-cloud-business-apps/</link>
             <guid isPermaLink="false">46771777-e47d-4870-b7fd-d315d07a1020</guid>
             <pubDate>Wed, 10 Aug 2016 08:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the new Power BI JavaScript API]]></title>
+            <description><![CDATA[<article><h1>Introducing the new Power BI JavaScript API</h1><p>Today we are excited to announce the release of our new JavaScript API, which provides bidirectional communication between Power BI reports and your application. The JavaScript API enables you to more easily embed reports into your applications and to programmatically interact with those reports so that the applications and the reports are more integrated.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4e34a81f25f33e721e5a962bec99e4d6/noop?input=https%3A%2F%2F1.gravatar.com%2Favatar%2F04d63bfc9e32595a1952dc347b9ca737%3Fs%3D512%26d%3Dhttp%253A%252F%252F0.gravatar.com%252Favatar%252Fad516503a11cd5ca435acc9bb6523536%253Fs%253D62"></article>]]></description>
+            <link>https://powerbi.microsoft.com/en-us/blog/intro-pbi-js-api/?wt.mc_id=WW_CE_BI_OO_SCL_TW&amp;Ocid=C+E%20Social%20FY17_Social_TW_MSPowerBI_20160901_560934444</link>
+            <guid isPermaLink="false">7b9993d3-cf55-4864-9810-249d002ad1ac</guid>
+            <pubDate>Fri, 02 Sep 2016 19:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Dynamics AX - Microsoft Dynamics CustomerSource]]></title>
+            <description><![CDATA[<article><h1>Microsoft Dynamics AX - Microsoft Dynamics CustomerSource</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/37a301e2d5638b0b4067022851b1443f/noop.jpg?input=https%3A%2F%2Fmbs.microsoft.com%2FFiles%2Fpublic%2FImages%2FShareImage-CustomerSource.jpg"></article>]]></description>
+            <link>https://mbs.microsoft.com/customersource/northamerica/AX/news-events/news/Dyn365ax</link>
+            <guid isPermaLink="false">a79263b9-8f42-459e-96ce-f7a4eaa37630</guid>
+            <pubDate>Fri, 02 Sep 2016 19:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Create an Online Email Form with Azure Logic Apps]]></title>
